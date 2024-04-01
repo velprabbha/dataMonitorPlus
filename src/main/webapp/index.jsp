@@ -1,1 +1,1 @@
-<% response.sendRedirect("/log");%
+<% response.sendRedirect("log")%
